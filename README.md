@@ -1,2 +1,2 @@
 #Hellow
-theme: Midnight
+theme: minima
